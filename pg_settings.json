@@ -1,0 +1,1 @@
+{ "max_connections" : "105", "synchronous_commit" : "off", "shared_buffers": "1110", "max_wal_size": "32MB" }
